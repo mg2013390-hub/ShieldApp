@@ -12,12 +12,10 @@
 ## Introduction
 
 # ShieldApp
-
-An advanced software protection and application security tool, fully customized, maintained, and owned by **Mohamed Gamal**.
+**ShieldApp** is a specialized desktop application framework derived and customized from the upstream [tauri-apps/tauri](https://github.com/tauri-apps/tauri) repository, tailored for secure application packaging and local workflow management.
 
 ## About the Project
-This repository has been fully personalized and configured for advanced development workflows and software engineering by **Mohamed Gamal**.
-
+This repository is a derivative work based on the Tauri framework. It incorporates custom configurations, local environment setups, and application-specific parameters designed to streamline secure desktop tool development. While leveraging Tauri's core architecture for Rust and web-frontend integration, this fork maintains explicit lineage to upstream developments while providing isolated configuration profiles.
 ## Features
 * Secure and robust application protection architecture.
 * Fully customized, managed, and controlled locally via VS Code and GitHub.
